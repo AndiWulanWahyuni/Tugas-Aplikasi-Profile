@@ -1,3 +1,2 @@
 # Tugas-Aplikasi-Profile
-Tugas Aplikasi Profile
-Application
+Tugas Aplikasi Profile Applications
